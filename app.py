@@ -18,6 +18,7 @@ def create_app(config_name):
 
 
 app = create_app('default')
+app.config['DEBUG'] = True
 app_context = app.app_context()
 app_context.push()
 
