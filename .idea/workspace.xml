@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7bc03bf-3986-42d4-93ef-86c6a99f3a3b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python-flask.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flaskr/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flaskr/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flaskr/modelos/modelos.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/modelos/modelos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flaskr/tests/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flaskr/tests/test_prueba.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/requirements.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/flaskr/tutorial_canciones.db" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/tutorial_canciones.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flaskr/vistas/vistas.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/vistas/vistas.py" afterDir="false" />
     </list>
@@ -30,6 +34,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wilso\Desktop\agilismo\python-flask" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="python-flask" type="PythonConfigurationType" factoryName="Python">
@@ -64,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1630964134651</updated>
       <workItem from="1630964156362" duration="407000" />
-      <workItem from="1630964888608" duration="387000" />
+      <workItem from="1630964888608" duration="691000" />
     </task>
     <servers />
   </component>
