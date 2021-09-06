@@ -3,17 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8852eb6b-bd6b-43af-959c-89cf1603222a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flaskr/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flaskr/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flaskr/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flaskr/app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flaskr/modelos/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flaskr/modelos/modelos.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flaskr/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flaskr/tutorial_canciones.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flaskr/vistas/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flaskr/vistas/vistas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +37,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1630942479766</updated>
-      <workItem from="1630942481351" duration="1225000" />
+      <workItem from="1630942481351" duration="1874000" />
     </task>
     <servers />
   </component>
